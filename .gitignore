@@ -21,3 +21,9 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+# ignore vvv created files and folders
+/log/
+/provision/vvv-nginx.conf
+/public_html
+
